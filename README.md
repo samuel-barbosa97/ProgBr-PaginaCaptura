@@ -8,4 +8,4 @@ A ideia do projeto é reproduzir uma página de Workshop qual tem integração c
 
 ▶ https://programadorbr.com/
 
-![unnamed-removebg-preview](https://user-images.githubusercontent.com/89155684/136718740-323c87b2-8b3c-4694-be0a-da09e74cbba6.png)
+<img src="https://user-images.githubusercontent.com/89155684/136718740-323c87b2-8b3c-4694-be0a-da09e74cbba6.png" width="100" height="100" />
