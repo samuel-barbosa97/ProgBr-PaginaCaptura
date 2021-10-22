@@ -1,11 +1,24 @@
-# Tela de Workshop 🎤👥
+<h1 align="center">
+  <img alt="ProgBR" src="https://o.remove.bg/downloads/fe4c8b11-40c6-4c73-befa-e98b1b95be44/unnamed-removebg-preview-removebg-preview.png" width="120px" />
+</h1>
 
-Projeto idealizado no curso do ProgBr, utilizando os conceitos de HTML e CSS para desenvolvimento web.
+<h3 align="center">
+  Página de prospecção 
+</h3>
 
-A ideia do projeto é reproduzir uma página de Workshop qual tem integração com o MailChimp, para que seja feita a interação do usuário via e-mail com o idealizador do Workshop.
+<p align="center">Neste projeto é desenvolvido uma página de prospecção de pessoas para um evento, utilizando conceitos intermediários de HTML e CSS fazendo a integração de email com o MailChimp.</p>
 
-![workshop](https://user-images.githubusercontent.com/89155684/132857377-33c60a95-bbc0-49c9-8a50-2195cd599bba.png)
+## 🚀 Tecnologias
 
-<img src="https://user-images.githubusercontent.com/89155684/136718740-323c87b2-8b3c-4694-be0a-da09e74cbba6.png" width="100" height="100" />
+- 💡 HTML
+- ⚡ CSS 
+- 📧 MailChimp
 
-▶ https://programadorbr.com/
+## ✋🏻 Pré-requisitos
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [MailChimp](https://mailchimp.com/pt-br/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
